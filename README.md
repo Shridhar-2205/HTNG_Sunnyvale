@@ -5,5 +5,5 @@ We utilized the poynt payment terminal to retrieve her preset environment settin
 
 
 ### Flow Diagram
-![alt text](https://github.com/nguyensjsu/fa18-202-code-hunters/blob/master/Diagrams/Final%20Class%20Diagram%20of%20Mario.png)
+![alt text](https://github.com/Shridhar-2205/HTNG_Sunnyvale/blob/master/Project%20Flow.JPG)
   
